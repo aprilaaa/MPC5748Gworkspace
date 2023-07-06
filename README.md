@@ -9,8 +9,7 @@
   
   This is the code written when using MPC5748G for the first time. The program can use two SW buttons to control 8bit LED lights and 1bit GPIO port
 
-  
-  ![image](https://github.com/aprilaaa/MPC5748Gworkspace/assets/68526860/6e315af8-9930-4244-b1ab-7b4bfcd5768d)
+    ![image](https://github.com/aprilaaa/MPC5748Gworkspace/assets/68526860/6e315af8-9930-4244-b1ab-7b4bfcd5768d)
   
   如果想要看到详细过程，可以阅读这篇文章：
   
