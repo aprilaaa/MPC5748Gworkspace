@@ -1,0 +1,96 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="8">
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/clock/MPC57xx"</Line>
+        <Line>"${ProjDirPath}/SDK/rtos/osif/"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/pal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/common"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MPC5748G/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MPC5748G/startup"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Symbols</name>
+      <values lines_count="1">
+        <Line>CPU_MPC5748G</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MPC5748G_324"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/can_pal1.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124760" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767211" FileType="1048576" />
+      <File Name="SDK/platform/devices/common/s32_core_e200.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767222" FileType="1048576" />
+      <File Name="Generated_Code/can_pal1.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124758" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124745" FileType="1048576" />
+      <File Name="Project_Settings/Linker_Files/linker_ram.ld" FileDate="2023-06-21, 10:32:47" FileAge="1687314767242" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124740" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124655" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124748" FileType="1048576" />
+      <File Name="Documentation/testCAN_Z4_0_Settings.xml" FileDate="2023-06-21, 10:38:44" FileAge="1687315124809" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124737" FileType="1048576" />
+      <File Name="SDK/platform/pal/inc/can_pal.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124677" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/clock.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767206" FileType="1048576" />
+      <File Name="SDK/platform/devices/MPC5748G/startup/system_MPC5748G.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767230" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124650" FileType="1048576" />
+      <File Name="Project_Settings/Linker_Files/linker_flash.ld" FileDate="2023-06-21, 10:32:47" FileAge="1687314767241" FileType="1048576" />
+      <File Name="SDK/rtos/osif/osif_baremetal.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124666" FileType="1048576" />
+      <File Name="Sources/main.c" FileDate="2023-06-21, 11:05:52" FileAge="1687316752541" FileType="128" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/mc_me_hw_access.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767204" FileType="1048576" />
+      <File Name="SDK/platform/devices/MPC5748G/startup/system_MPC5748G.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767232" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgmcs_hw_access.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767196" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_driver.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124743" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767187" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124785" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767169" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767248" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/pal/src/can/can_pal.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124672" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767208" FileType="1048576" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767214" FileType="1048576" />
+      <File Name="SDK/platform/devices/MPC5748G/include/MPC5748G.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767238" FileType="1048576" />
+      <File Name="Generated_Code/dmaController1.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124764" FileType="45637" CompNumb="6" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767181" FileType="1048576" />
+      <File Name="Project_Settings/Startup_Code/interrupt_vectors.S" FileDate="2023-06-21, 10:32:47" FileAge="1687314767245" FileType="1048576" />
+      <File Name="Generated_Code/dmaController1.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124762" FileType="45637" CompNumb="6" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767176" FileType="1048576" />
+      <File Name="SDK/platform/devices/MPC5748G/include/MPC5748G_features.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767234" FileType="1048576" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124775" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/can_pal_cfg.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124753" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/drivers/inc/flexcan_driver.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124750" FileType="1048576" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767224" FileType="1048576" />
+      <File Name="Project_Settings/Startup_Code/startup_MPC5748G.S" FileDate="2023-06-21, 10:32:47" FileAge="1687314767244" FileType="1048576" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124779" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767227" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767184" FileType="1048576" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767216" FileType="1048576" />
+      <File Name="Documentation/testCAN_Z4_0.txt" FileDate="2023-06-21, 10:38:44" FileAge="1687315124818" FileType="3072" />
+      <File Name="SDK/platform/drivers/inc/edma_driver.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124659" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124657" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/edma/edma_driver.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124647" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767178" FileType="1048576" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767219" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767189" FileType="1048576" />
+      <File Name="SDK/platform/pal/inc/can_pal_mapping.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124674" FileType="1048576" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767254" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124653" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767200" FileType="1048576" />
+      <File Name="SDK/rtos/osif/osif.h" FileDate="2023-06-21, 10:38:44" FileAge="1687315124664" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgm_hw_access.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767199" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cmu_hw_access.h" FileDate="2023-06-21, 10:32:47" FileAge="1687314767202" FileType="1048576" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2023-06-21, 10:38:44" FileAge="1687315124782" FileType="45637" CompNumb="3" />
+      <File Name="Project_Settings/Startup_Code/core0_intc_sw_handlers.S" FileDate="2023-06-21, 10:32:47" FileAge="1687314767246" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.c" FileDate="2023-06-21, 10:32:47" FileAge="1687314767193" FileType="1048576" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>3</CodeGenReference>
+</CodeGenerationInfo>
