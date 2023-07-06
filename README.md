@@ -20,9 +20,9 @@
 
 # 2. testADC_Z4_0
 
-    这个代码使用到了八个LED灯，一个电位器和一位ADC输入PB[4]，通过输入的模拟量来控制LED灯的亮灭。
+    这个工程使用到了八个LED灯，一个电位器和一位ADC输入PB[4]，通过输入的模拟量来控制LED灯的亮灭。
 
-    This code uses eight LED lights, one Potentiometer and one ADC input PB [4] to control the LED lights on and off through the input analog quantity.
+    This project uses eight LED lights, one Potentiometer and one ADC input PB [4] to control the LED lights on and off through the input analog quantity.
 
     ![image](https://github.com/aprilaaa/MPC5748Gworkspace/assets/68526860/de116e4a-6ba5-4fed-890c-5a6c226e5b40)
 
@@ -35,9 +35,9 @@
 
 # 3. testSTM_Z4_0
 
-    这个代码使用了系统定时器模块STM，功能为设定一个1s的延时，控制LED的亮灭。
+    这个工程使用了系统定时器模块STM，功能为设定一个1s的延时，控制LED的亮灭。
 
-    This code uses the system timer module STM, which sets a 1-second delay to control the LED on and off.
+    This project uses the system timer module STM, which sets a 1-second delay to control the LED on and off.
 
     ![image](https://github.com/aprilaaa/MPC5748Gworkspace/assets/68526860/5df06232-2e8f-47c5-bdfa-07c3fe91456a)
 
